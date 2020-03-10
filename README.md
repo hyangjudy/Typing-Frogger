@@ -6,7 +6,7 @@ The idea comes from the Frogger ([金山打字通-青蛙过河](https://github.c
 
 ## Demo
 
-[![Watch the video](https://github.com/hyangjudy/Typing-Frogger/blob/master/media/demo-cover.png)](https://github.com/hyangjudy/Typing-Frogger/blob/master/media/demo.mp4)
+[![Watch the video](https://github.com/hyangjudy/Typing-Frogger/blob/master/media/demo-cover.png)](https://youtu.be/nSPNwvJjMaM)
 
 ## How to play
 
